@@ -1,0 +1,50 @@
+<style>
+    #logo {
+        width: 100%;
+        height: 10vh;
+        overflow: hidden;
+        background-image: url('/assets/img/logo.png');
+        background-position: center center;
+        border-radius: 10px 10px 0 0;
+    }
+
+    #card {
+        width: min-content;
+        min-width: 600px;
+        background: white;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 2em;
+        box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+        margin: auto;
+        z-index: 1;
+        position: relative;
+        top: -20px;
+        padding: 10px 40px;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    main {
+        margin: 1vh 10vw;
+        padding: 10px;
+        min-height: 70vh;
+    }
+
+    body {
+        background-image: linear-gradient(white, white, #5f427c, #14163c);
+        padding: 0;
+        margin: 0;
+    }
+
+    header {
+        background-image: linear-gradient( #5f427c, white, white);
+    }
+</style>
+<header>
+<div id="logo"></div>
+<div id="card">MeasuredResponse.AI</div>
+</header>
+
+<main>
+    {{content}}
+</main>
