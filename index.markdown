@@ -101,13 +101,13 @@ layout: home
         <div class="link"><a href="https://bit.ly/measuredresponsepatreon">Patreon - Check out our page</a></div>
     </div>
 </div>
-<div id="instagram" class="salesbox">
+<!-- <div id="instagram" class="salesbox">
     <div class="logo">Instagram Logo</div>
     <div class="info">
         <div class="description">Check out even more images from our content ahead of their official launch on YouTube.</div>
         <div class="link"><a href="https://bit.ly/measuredreponseinstagram">Instagram - Reels and posts</a></div>
     </div>
-</div>
+</div> -->
 <!-- <div id="patreon18" class="salesbox">
     <div class="logo">Patreon 18+ Logo</div>
     <div class="info">
