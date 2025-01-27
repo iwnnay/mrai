@@ -108,10 +108,10 @@ layout: home
         <div class="link"><a href="https://bit.ly/measuredreponseinstagram">Instagram - Reels and posts</a></div>
     </div>
 </div>
-<div id="patreon18" class="salesbox">
+<!-- <div id="patreon18" class="salesbox">
     <div class="logo">Patreon 18+ Logo</div>
     <div class="info">
         <div class="description">This Patreon page has all the same content of our other Patreon plus more explicit content. Because of that it is age restricted to viewers 18 and up.</div>
         <div class="link"><a href="https://bit.ly/MeasuredResponseAIv18">Patreon 18+ (Age Verified)</a></div>
     </div>
-</div>
+</div> -->
